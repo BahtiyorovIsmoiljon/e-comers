@@ -1,0 +1,396 @@
+{
+  "products": [
+    {
+      "id": "p01",
+      "quantity": 0,
+      "name": "Kugoo Kirin M4",
+      "image": "img/png/scooter.png",
+      "isNew": true,
+      "isXit": false,
+      "amount": 5,
+      "productDetails": [
+        {
+          "id": "d01",
+          "battery": "9000 mAh",
+          "speed": "70 км/ч",
+          "hour": "13 часов",
+          "power": "1,2 л.с."
+        }
+      ],
+      "productPrice": {
+        "price": 10990,
+        "disPrice": 9990
+      }
+    },
+    {
+      "id": "p02",
+      "quantity": 0,
+      "name": "Kugoo Kirin M3",
+      "image": "img/png/scooter.png",
+      "isNew": false,
+      "isXit": true,
+      "amount": 15,
+      "productDetails": [
+        {
+          "id": "d02",
+          "battery": "5000 mAh",
+          "speed": "50 км/ч",
+          "hour": "7 часов",
+          "power": "1,2 л.с."
+        }
+      ],
+      "productPrice": {
+        "price": 8990,
+        "disPrice": 7990
+      }
+    },
+    {
+      "id": "p03",
+      "quantity": 0,
+      "name": "Kugoo Kirin M2",
+      "image": "img/png/scooter.png",
+      "isNew": true,
+      "isXit": false,
+      "amount": 5,
+      "productDetails": [
+        {
+          "id": "d03",
+          "battery": "2000 mAh",
+          "speed": "40 км/ч",
+          "hour": "6 часов",
+          "power": "1,2 л.с."
+        }
+      ],
+      "productPrice": {
+        "price": 7990,
+        "disPrice": 6990
+      }
+    },
+    {
+      "id": "p04",
+      "quantity": 0,
+      "name": "Kugoo Kirin x2",
+      "image": "img/png/scooter.png",
+      "isNew": true,
+      "isXit": false,
+      "amount": 5,
+      "productDetails": [
+        {
+          "id": "d03",
+          "battery": "2100 mAh",
+          "speed": "55 км/ч",
+          "hour": "7 часов",
+          "power": "1,5 л.с."
+        }
+      ],
+      "productPrice": {
+        "price": 7990,
+        "disPrice": 6990
+      }
+    },
+    {
+      "id": "p05",
+      "quantity": 0,
+      "name": "Kugoo Kirin f2",
+      "image": "img/png/scooter.png",
+      "isNew": true,
+      "isXit": false,
+      "amount": 5,
+      "productDetails": [
+        {
+          "id": "d03",
+          "battery": "1800 mAh",
+          "speed": "40 км/ч",
+          "hour": "6 часов",
+          "power": "1 л.с."
+        }
+      ],
+      "productPrice": {
+        "price": 7990,
+        "disPrice": 6990
+      }
+    },
+    {
+      "id": "p06",
+      "quantity": 0,
+      "name": "Kugoo Kirin x3",
+      "image": "img/png/scooter.png",
+      "isNew": true,
+      "isXit": false,
+      "amount": 5,
+      "productDetails": [
+        {
+          "id": "d03",
+          "battery": "2500 mAh",
+          "speed": "75 км/ч",
+          "hour": "8 часов",
+          "power": "1,8 л.с."
+        }
+      ],
+      "productPrice": {
+        "price": 7990,
+        "disPrice": 6990
+      }
+    },
+    {
+      "id": "p07",
+      "quantity": 0,
+      "name": "Kugoo Kirin M2",
+      "image": "img/png/scooter.png",
+      "isNew": true,
+      "isXit": false,
+      "amount": 5,
+      "productDetails": [
+        {
+          "id": "d03",
+          "battery": "2000 mAh",
+          "speed": "40 км/ч",
+          "hour": "6 часов",
+          "power": "1,2 л.с."
+        }
+      ],
+      "productPrice": {
+        "price": 7990,
+        "disPrice": 6990
+      }
+    },
+    {
+      "id": "p08",
+      "quantity": 0,
+      "name": "Kugoo Kirin M2",
+      "image": "img/png/scooter.png",
+      "isNew": true,
+      "isXit": false,
+      "amount": 5,
+      "productDetails": [
+        {
+          "id": "d03",
+          "battery": "2000 mAh",
+          "speed": "40 км/ч",
+          "hour": "6 часов",
+          "power": "1,2 л.с."
+        }
+      ],
+      "productPrice": {
+        "price": 7990,
+        "disPrice": 6990
+      }
+    }
+  ],
+  "category": [
+    {
+      "id": "c01",
+      "img": "/img/png/robort-cleaner.png",
+      "name": "Робот-пылесоссы",
+      "price": "29 900 ₽"
+    },
+    {
+      "id": "c02",
+      "img": "/img/png/electro-bike.png",
+      "name": "Электровелосипеды",
+      "price": "29 900 ₽"
+    },
+    {
+      "id": "c03",
+      "img": "/img/png/balance.png",
+      "name": "Весы",
+      "price": "12 900 ₽"
+    },
+    {
+      "id": "c04",
+      "img": "/img/png/robort-cleaner.png",
+      "name": "Робот-пылесоссы",
+      "price": "29 900 ₽"
+    },
+    {
+      "id": "c05",
+      "img": "/img/png/balance.png",
+      "name": "Весы",
+      "price": "12 900 ₽"
+    },
+    {
+      "id": "c06",
+      "img": "/img/png/robort-cleaner.png",
+      "name": "Робот-пылесоссы",
+      "price": "29 900 ₽"
+    },
+    {
+      "id": "c07",
+      "img": "/img/png/electro-bike.png",
+      "name": "Электровелосипеды",
+      "price": "29 900 ₽"
+    },
+    {
+      "id": "c08",
+      "img": "/img/png/robort-cleaner.png",
+      "name": "Весы",
+      "price": "12 900 ₽"
+    }
+  ],
+  "heroSwiper": [
+    {
+      "id": "h01",
+      "img": "/img/png/hero-scooter.png",
+      "name": "Электросамокаты Kugoo Kirin от официального дилера",
+      "subtitle": "с бесплатной доставкой по РФ от 1 дня"
+    },
+    {
+      "id": "h02",
+      "img": "/img/png/hero-scooter.png",
+      "name": "Электросамокаты Kugoo F5 от официального дилера",
+      "subtitle": "с бесплатной доставкой по РФ от 1 дня"
+    },
+    {
+      "id": "h03",
+      "img": "/img/png/hero-scooter.png",
+      "name": "Электросамокаты Kugoo M4 от официального дилера",
+      "subtitle": "с бесплатной доставкой по РФ от 1 дня"
+    }
+  ],
+  "offerItems1": [
+    {
+      "id": "o1",
+      "name": "Х товаров в каталоге",
+      "text": "Выбирайте товар, который подходит по цене и характеристикам. Если товара нет в наличии — мы сообщим вам о его поступлении. ",
+      "img": "/img/svg/shopping-cart.svg"
+    },
+    {
+      "id": "o2",
+      "name": "5 способов оплаты",
+      "text": "Вы можете оплатить покупку наличными, картой, онлайн на сайте, через интернет-банкинг или в кредит от «Сбербанка».",
+      "img": "/img/svg/billfold.svg"
+    },
+    {
+      "id": "o3",
+      "name": "Полная документация и гарантия 1 год",
+      "text": "При покупке вам выдается кассовый чек, товарный чек и гарантийный талон – эти документы дают право на гарантийное обслуживание.",
+      "img": "/img/svg/guarantee.svg"
+    },
+    {
+      "id": "o4",
+      "name": "Отправка заказа день в день",
+      "text": "Отправляем заказы по всей России день в день или забирайте товар самостоятельно в магазинах в Москве, Санкт-Петербурге и Краснодаре",
+      "img": "/img/svg/delivery.svg"
+    },
+    {
+      "id": "o5",
+      "name": "Рассрочка без переплат",
+      "text": "В нашем магазине можно приобрести любой товар в рассрочку.",
+      "link": " Подробнее про условия рассрочки",
+      "img": "/img/svg/percentage-discount.svg"
+    },
+    {
+      "id": "o6",
+      "name": "Больше в каталоге",
+      "link": "Перейти",
+      "img": "/img/png/offer-scooter.png"
+    }
+  ],
+  "offerItems2": [
+    {
+      "id": "of1",
+      "name": "Ремонт от 1 дня",
+      "text": "Устраним любую неисправность. Обычно делаем это за 1-3 дня, если ремонт сложный — предупредим заранее",
+      "img": "/img/svg/shopping-cart.svg"
+    },
+    {
+      "id": "of2",
+      "name": "Гидроизоляция для долгой службы",
+      "text": "Покроем электросамокат изнутри специальным веществом, которое предотвратит попадание влаги и позволит кататься в любое время года.",
+      "img": "/img/svg/billfold.svg"
+    },
+    {
+      "id": "of3",
+      "name": "Ремонтируем только то, что сломалось",
+      "text": "Не навязываем услуги, диагностируем и заранее обговариваем стоимость ремонта.",
+      "img": "/img/svg/guarantee.svg"
+    },
+    {
+      "id": "of4",
+      "name": "Даем гарантию 14 дней на ремонт",
+      "img": "/img/svg/delivery.svg"
+    },
+    {
+      "id": "of5",
+      "name": "Оригинальные запчасти",
+      "text": "Благодаря прямой связи с производителем имеем в наличии все необходимые новые комплектующие для ремонта.",
+      "img": "/img/svg/percentage-discount.svg"
+    },
+    {
+      "id": "of6",
+      "name": "Больше в сервисе",
+      "link": "Перейти",
+      "img": "/img/png/drel.png"
+    }
+  ],
+  "basketCart": [
+    {
+      "id": "p07",
+      "quantity": 5,
+      "name": "Kugoo Kirin M2",
+      "image": "img/png/scooter.png",
+      "isNew": true,
+      "isXit": false,
+      "amount": 5,
+      "productDetails": [
+        {
+          "id": "d03",
+          "battery": "2000 mAh",
+          "speed": "40 км/ч",
+          "hour": "6 часов",
+          "power": "1,2 л.с."
+        }
+      ],
+      "productPrice": {
+        "price": 7990,
+        "disPrice": 6990
+      }
+    }
+  ],
+  "fvrt": [
+    {
+      "id": "p06",
+      "quantity": 0,
+      "name": "Kugoo Kirin x3",
+      "image": "img/png/scooter.png",
+      "isNew": true,
+      "isXit": false,
+      "amount": 5,
+      "productDetails": [
+        {
+          "id": "d03",
+          "battery": "2500 mAh",
+          "speed": "75 км/ч",
+          "hour": "8 часов",
+          "power": "1,8 л.с."
+        }
+      ],
+      "productPrice": {
+        "price": 7990,
+        "disPrice": 6990
+      }
+    },
+    {
+      "id": "p02",
+      "quantity": 0,
+      "name": "Kugoo Kirin M3",
+      "image": "img/png/scooter.png",
+      "isNew": false,
+      "isXit": true,
+      "amount": 15,
+      "productDetails": [
+        {
+          "id": "d02",
+          "battery": "5000 mAh",
+          "speed": "50 км/ч",
+          "hour": "7 часов",
+          "power": "1,2 л.с."
+        }
+      ],
+      "productPrice": {
+        "price": 8990,
+        "disPrice": 7990
+      }
+    }
+  ]
+}
